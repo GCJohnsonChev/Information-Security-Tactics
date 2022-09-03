@@ -1,4 +1,4 @@
-Internet and Intranet
+Internet and Intranet Network
 
 Internet
 Microwave Resistant Satellite Internet
@@ -10,8 +10,13 @@ Cables
 RJ-45 Internally Wrapped Foiled Cables
 With Braided Outer Layer
 
+Network Security Appliances
 Security Hardened Firewall Appliance
 
 Servers
 Gentoo Intranet Cloud Servers For Movies / Games
 Remote accessible IoT devices
+
+Cameras
+Nightvision, InfraRED Vision, Thermal Vision
+Cameras
