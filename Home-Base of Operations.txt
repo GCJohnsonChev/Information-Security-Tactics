@@ -1,7 +1,7 @@
 Internet and Intranet
 
 Internet
-Satellite Internet
+Microwave Resistant Satellite Internet
 
 Router
 Security Hardened TomatoOS Router
