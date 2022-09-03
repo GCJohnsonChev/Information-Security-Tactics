@@ -4,7 +4,7 @@ Internet
 Microwave Resistant Satellite Internet
 
 Router
-Security Hardened TomatoOS Router
+Security Hardened TomatoOS / Tomato Firmware Router
 
 Cables
 RJ-45 Internally Wrapped Foiled Cables
