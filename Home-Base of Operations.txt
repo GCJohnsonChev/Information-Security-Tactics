@@ -14,3 +14,4 @@ Security Hardened Firewall Appliance
 
 Servers
 Gentoo Intranet Cloud Servers For Movies / Games
+Remote accessible IoT devices
