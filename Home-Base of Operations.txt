@@ -1,0 +1,16 @@
+Internet and Intranet
+
+Internet
+Satellite Internet
+
+Router
+Security Hardened TomatoOS Router
+
+Cables
+RJ-45 Internally Wrapped Foiled Cables
+With Braided Outer Layer
+
+Security Hardened Firewall Appliance
+
+Servers
+Gentoo Intranet Cloud Servers For Movies / Games
